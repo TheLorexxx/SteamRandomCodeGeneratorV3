@@ -1,6 +1,7 @@
 <h1>How To Open File?</h1>
 <h3>1 - Download python <a href="https://www.python.org">www.python.org</a></h3>
 <h3>2 - Open File </h3>
+<h3>Note : Only Working Windows</h3>
 <br>
 <br>
 <hr>
