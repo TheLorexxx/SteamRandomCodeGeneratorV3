@@ -5,3 +5,5 @@
 <br>
 <hr>
 <h3>Codes come randomly , there is a chance it will work.</h3>
+<h3>Only Working Windows</h3>
+<h3>Other<a href="https://github.com/TheLorexxx/SteamRandomCodeGeneratorV4">SteamRandomCodeGeneratorV4</a></h3>
